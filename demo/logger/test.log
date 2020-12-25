@@ -1,0 +1,21 @@
+2020-12-25 17:12:11.073 [32mINFO [m [main] [32mc.e.d.DemoApplication.logStarting(55)[m: Starting DemoApplication using Java 1.8.0_231 on localhost with PID 42814 (/Users/fangzhengwei/Desktop/demo/target/classes started by fangzhengwei in /Users/fangzhengwei/Desktop/demo)
+2020-12-25 17:12:11.096 [32mINFO [m [main] [32mc.e.d.DemoApplication.logStartupProfileInfo(660)[m: No active profile set, falling back to default profiles: default
+2020-12-25 17:12:16.140 [32mINFO [m [main] [32mo.a.c.h.Http11NioProtocol.log(173)[m: Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-25 17:12:16.142 [32mINFO [m [main] [32mo.a.c.c.StandardService.log(173)[m: Starting service [Tomcat]
+2020-12-25 17:12:16.142 [32mINFO [m [main] [32mo.a.c.c.StandardEngine.log(173)[m: Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-25 17:12:16.474 [32mINFO [m [main] [32mo.a.c.c.C.[.[.[/].log(173)[m: Initializing Spring embedded WebApplicationContext
+2020-12-25 17:12:17.070 [32mINFO [m [main] [32mo.h.j.i.u.LogHelper.logPersistenceUnitInformation(31)[m: HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-12-25 17:12:17.412 [32mINFO [m [main] [32mo.h.Version.logVersion(44)[m: HHH000412: Hibernate ORM core version 5.4.25.Final
+2020-12-25 17:12:18.401 [32mINFO [m [main] [32mo.h.a.c.Version.<clinit>(56)[m: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2020-12-25 17:12:18.980 [32mINFO [m [main] [32mc.z.h.HikariDataSource.getConnection(110)[m: HikariPool-1 - Starting...
+2020-12-25 17:12:20.142 [32mINFO [m [main] [32mc.z.h.HikariDataSource.getConnection(123)[m: HikariPool-1 - Start completed.
+2020-12-25 17:12:20.252 [32mINFO [m [main] [32mo.h.d.Dialect.<init>(175)[m: HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-12-25 17:12:23.102 [32mINFO [m [main] [32mo.h.e.t.j.p.i.JtaPlatformInitiator.initiateService(52)[m: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-12-25 17:12:25.572 [32mINFO [m [main] [32ms.d.s.w.PropertySourcedRequestMappingHandlerMapping.initHandlerMethods(69)[m: Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-25 17:12:26.480 [32mINFO [m [main] [32mo.a.c.h.Http11NioProtocol.log(173)[m: Starting ProtocolHandler ["http-nio-8080"]
+2020-12-25 17:12:26.630 [32mINFO [m [main] [32ms.d.s.w.p.DocumentationPluginsBootstrapper.start(160)[m: Context refreshed
+2020-12-25 17:12:26.751 [32mINFO [m [main] [32ms.d.s.w.p.DocumentationPluginsBootstrapper.start(163)[m: Found 1 custom documentation plugin(s)
+2020-12-25 17:12:26.863 [32mINFO [m [main] [32ms.d.s.w.s.ApiListingReferenceScanner.scan(41)[m: Scanning for api listing references
+2020-12-25 17:12:27.460 [32mINFO [m [main] [32mc.e.d.DemoApplication.logStarted(61)[m: Started DemoApplication in 17.948 seconds (JVM running for 23.027)
+2020-12-25 17:14:52.634 [32mINFO [m [SpringContextShutdownHook] [32mc.z.h.HikariDataSource.close(350)[m: HikariPool-1 - Shutdown initiated...
+2020-12-25 17:14:52.657 [32mINFO [m [SpringContextShutdownHook] [32mc.z.h.HikariDataSource.close(352)[m: HikariPool-1 - Shutdown completed.
